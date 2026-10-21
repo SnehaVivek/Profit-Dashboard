@@ -89,10 +89,7 @@ Data preparation was performed using Power Query in Power BI. The applied transf
 
 <h2>Dashboard Preview</h2>
 
-<p align="center">
-  <em>Insert your Power BI dashboard screenshot below.</em>
-</p>
-
+<img width="1441" height="815" alt="image" src="https://github.com/user-attachments/assets/f81fae0e-74bf-4f04-a575-b9f533af99b3" />
 
 
 <h2>Project Outcome</h2>
